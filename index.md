@@ -12,9 +12,9 @@ layout: default
 
 For this project, we looked at how to improve the COMP 110 class. We decided that one way to improve the class might be to customize the different exercises that we did as homeworks to be more interesting to people with different majors. For example, maybe the Tea Party assignment could be redone to allow us to build functions that might calculate the number of different atoms in given quantity of a compound or other substance, in order to engage some of the people who are chemistry majors. We determined that COMP 110 might be more engaging for students who were not strictly COMP majors if they were able to see how computer science might apply to their career. We first counted the number of students in each major and made a histogram based off that, and then we analyzed the number of students who were COMP majors (or minors) vs. non-COMP majors. From there, we calcualted the percentage of each group who responded to the survey question: "Student believes the topics they are learning in this course are intellectually interesting. Possible values (1 being Strongly Disagree and 7 being Strongly Agree): 1, 2, 3, 4, 5, 6, 7" with a value higher than 4. We considered a value higher than 4 (5, 6, or 7) to be someone who found the course interesting. We found the percentage of COMP majors who found the class interesting, and the percentage of non-COMP majors who found the class interesting. We noticed a gap here, and visualized it with a bar chart. Finally, we analyzed the amount of interest that people had based on their level of prior experience, categorized by whether they were COMP majors or not. We graphed that with a line graph as well as a bar chart to visualize that difference in two ways.
 
-<img src="/static/imgs/output.png" alt = "Image of Histogram." width="500"/>
-<img src="/static/imgs/percentages.png" alt = "Image of Percentages Bar Graph." width="500"/>
-<img src="/static/imgs/barplot.png" alt = "Image of Bar Plot of Interest vs. Prior Experiene." width="500"/>
+<img src="ex09/static/imgs/output.png" alt = "Image of Histogram." width="500"/>
+<img src="ex09/static/imgs/percentages.png" alt = "Image of Percentages Bar Graph." width="500"/>
+<img src="static/imgs/barplot.png" alt = "Image of Bar Plot of Interest vs. Prior Experiene." width="500"/>
 <img src="/static/imgs/lineplot.png" alt = "Image of Line Graph of Interest vs. Prior Experience." width="500"/>
 
 ## Conclusion
